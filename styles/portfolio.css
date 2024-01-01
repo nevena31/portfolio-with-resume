@@ -142,14 +142,6 @@ nav li.active a {
   color: var(--branding-color);
 }
 
-.skill-icons {
-  width: 35%;
-}
-
-.achievements {
-  width: 50%;
-}
-
 footer {
   margin: 60px 0;
 }
